@@ -12,6 +12,7 @@ Data含有 15 項數據可作為特徵:
 
 # Math Problem
 
+## Topics
 1. Closed-Form Linear Regression Solution
 3. Logistic Sigmoid Function and Hyperbolic Tangent Function
 4. Noise and Regulation
