@@ -1,3 +1,5 @@
 # HW5
+## Task
 Predict whether a person's income is over 50k
-- Accuracy 0.85812
+## Result
+Accuracy: 0.85812
