@@ -16,7 +16,7 @@ National Taiwan University Machine Learning course, teaching by Pei-Yuan Wu.
     <th>45/86</th>
   </tr>
   <tr>
-     <th>CNN>/th 
+     <th>CNN</th> 
      <th>56/75</th>
   </tr> 
   <tr>
